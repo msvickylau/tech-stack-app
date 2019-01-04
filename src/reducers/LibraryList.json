@@ -1,0 +1,77 @@
+[
+  {
+    "id": 0,
+    "title": "NativeBase",
+    "description": "At 10k stars and over 1k forks NativeBase is a widely popular UI component library providing dozens of cross-platform components for React native. When using NativeBase, you can use any native third-party libraries out of the box and the project itself comes with a rich ecosystem around it, from useful starter-kits to customizable theme templates.",
+  },
+  {
+    "id": 1,
+    "title": "React Native Elements",
+    "description": "At over 12k stars react-native-elements is a highly customizable cross-platform UI toolkit built entirely in Javascript. The library’s authors state that “The idea with React Native Elements is more about component structure than actual design, meaning less boilerplate in setting up certain elements but full control over their design”, which should make it appealing for both new developers and seasoned veterans."
+  },
+  {
+    "id": 2,
+    "title": "Shoutem",
+    "description": "At 3.5k stars Shoutem is a React Native UI Kit which consists of 3 parts: UI components, Themes and component Animation. The library provides a set of cross-platform components for iOS and Android, and all components are built to be both composable and customizable. Each component also has a predefined style that is consistent with the rest, which makes it possible to build complex components without manually defining complex styles."
+  },
+  {
+    "id": 3,
+    "title": "UI Kitten",
+    "description": "At 3k stars this library provides a customizable and reusable react-native component kit based on the concept of moving style definitions into a specific place making components reusable and styled in a single way. Themes can be rather easily changed ”on the fly” by passing a different set of variables."
+  },
+  {
+    "id": 4,
+    "title": "React Native Material UI",
+    "description": "A 2k stars library with a set of highly customizable UI components implementing Google’s material design. Note that the library is using a single JS object called uiTheme that is passed in via context for max customizability. "
+  },
+  {
+    "id": 5,
+    "title": "React Native Material Kit",
+    "description": "Although last NPM publish was on Dec 2017, this 4k-stars library is still worth a mention with a basic yet useful set of UI components and themes implementing Google’s MD. Why? because it’s simple, useful and low on surrounding “noise”. Due to relatively low maintenance, use with caution."
+  },
+  {
+    "id": 6,
+    "title": "Webpack",
+    "description": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+  },
+  {
+    "id": 7,
+    "title": "React",
+    "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+  },
+  {
+    "id": 8,
+    "title": "Redux",
+    "description": "Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test."
+  },
+  {
+    "id": 9,
+    "title": "React-Redux",
+    "description": "React-Redux is the official set of bindings between the React and Redux libraries. With this library you can keep your views and data in sync."
+  },
+  {
+    "id": 10,
+    "title": "Lodash",
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras. Lodash is released under the MIT license & supports modern environments."
+  },
+  {
+    "id": 11,
+    "title": "Redux-Thunk",
+    "description": "Redux Thunk middleware allows you to write action creators that return a function instead of an action. The thunk can be used to delay the dispatch of an action, or to dispatch only if a certain condition is met."
+  },
+  {
+    "id": 12,
+    "title": "ESLint",
+    "description": "ESLint is an open source JavaScript linting utility originally created by Nicholas C. Zakas in June 2013. Code linting is a type of static analysis that is frequently used to find problematic patterns or code that doesn't adhere to certain style guidelines."
+  },
+  {
+    "id": 13,
+    "title": "Babel",
+    "description": "Babel has support for the latest version of JavaScript through syntax transformers. These plugins allow you to use new syntax, right now without waiting for browser support."
+  },
+  {
+    "id": 14,
+    "title": "Axios",
+    "description": "Promise based HTTP client for the browser and node.js. With Axios, you can make XMLHttpRequests from the browser or Node with the full Promise Api."
+  }
+]
